@@ -1,0 +1,5 @@
+pip
+pytest
+rope
+yapf
+prospector[with_everything]
